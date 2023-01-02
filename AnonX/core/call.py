@@ -310,7 +310,7 @@ class Call(PyTgCalls):
                 )
             except Exception as e:
                 raise AssistantErr(
-                    "**ɴᴏ ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ғᴏᴜɴᴅ**\n\nᴩʟᴇᴀsᴇ ᴍᴀᴋᴇ sᴜʀᴇ ʏᴏᴜ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛ."
+                    "**🇼🇦🇦🇭 🇬🇦🇳🇩🇺..!!!!**\n\n🇦🇧🇧🇪 🇨🇭🇺🇹🇮🇾🇦 🇻🇨 🇴🇳 🇰🇦🇦🇷 🇵🇭🇱🇪."
                 )
         except AlreadyJoinedError:
             raise AssistantErr(
