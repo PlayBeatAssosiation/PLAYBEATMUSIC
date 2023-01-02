@@ -127,11 +127,6 @@ if UPSTREAM_REPO:
         )
         sys.exit()
 
-if PING_IMG_URL:
-    if PING_IMG_URL != "assets/Ping.jpeg":
-        if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = https://te.legra.ph/su7-01-02.jpg"
-
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
